@@ -1,0 +1,45 @@
+question,expected_question,split
+how can i apply for admission,How do I apply for admission?,dev
+What is the process to apply for admission to the college?,How do I apply for admission?,test
+Till when can I submit my application?,What is the last date to apply?,dev
+what is the deadline to apply,When is the application deadline?,test
+Which certificates do I need to submit for admission,Which documents are required for admission?,dev
+What documents should I bring for joining?,Which documents are required for admission?,test
+how to know my application status,How can I check my application status?,dev
+Where do I track my application?,How can I check my application status?,test
+How can I pay my fees online?,How do I pay the tuition fees?,dev
+TUITION FEE PAYMENT PROCESS!!!,How do I pay the tuition fees?,test
+Can I pay fees in parts?,Can I pay the fees in installments?,dev
+I want my fees back after withdrawing,How do I get a tuition fee refund?,test
+Do you give scholarships?,Are scholarships available?,dev
+how do i apply for a scholarship??,How can I apply for a scholarship?,test
+What is the minimum attendance percentage?,What is the minimum attendance required?,dev
+What if I do not have enough attendance?,What happens if my attendance is low?,test
+How is my CGPA computed?,How is the CGPA calculated?,dev
+Where can I see my results?,How can I check my exam results?,test
+How do I get my answer paper rechecked?,How do I apply for revaluation of my answer sheet?,dev
+Is there a supplementary exam if I fail?,What if I fail a subject?,test
+how to book a room in the hostel,How do I apply for hostel accommodation?,dev
+"I want to leave the hostel, how do I cancel?",How do I cancel my hostel allotment?,test
+What time does the library open?,What are the library timings?,dev
+How many books can a student borrow?,How many books can I borrow from the library?,test
+Does the campus have wifi?,Is there Wi-Fi on campus?,dev
+Is college transport available?,Is there a bus facility for students?,test
+Is there a doctor on campus?,Is there a medical facility on campus?,dev
+I lost my ID card what should I do,What should I do if I lose my ID card?,test
+Is placement training provided?,Does the college provide placement assistance?,dev
+Which recruiters come to campus?,Which companies visit the campus for placements?,test
+How do I get a transcript,How can I get my transcript?,dev
+How can I report ragging?,What is the anti-ragging policy?,test
+What is the weather like today?,UNKNOWN,dev
+Who won the cricket match yesterday?,UNKNOWN,dev
+Tell me a joke,UNKNOWN,dev
+What is the capital of France?,UNKNOWN,dev
+How do I bake a chocolate cake?,UNKNOWN,dev
+Recommend a good movie to watch,UNKNOWN,dev
+What is the price of gold?,UNKNOWN,test
+Who is the president of the United States?,UNKNOWN,test
+How to fix a flat bicycle tire?,UNKNOWN,test
+asdfgh qwerty,UNKNOWN,test
+Can you book a flight ticket for me?,UNKNOWN,test
+What is the meaning of life?,UNKNOWN,test
