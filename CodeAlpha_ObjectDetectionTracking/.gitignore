@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Model weights (downloaded automatically)
+*.pt
+*.onnx
+
+# Generated output and local videos
+output/*
+!output/.gitkeep
+videos/
+*.mp4
+*.avi
+
+# Ultralytics runs
+runs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store

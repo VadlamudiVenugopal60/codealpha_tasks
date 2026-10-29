@@ -1,0 +1,6 @@
+# YOLO26 requires a recent Ultralytics release; run `pip install -U ultralytics` if yolo26n.pt fails to load.
+# After your install works, run `pip freeze | findstr "ultralytics opencv torch"` (Windows)
+# or `pip freeze | grep -E "ultralytics|opencv|torch"` (macOS/Linux) and pin the versions you tested.
+ultralytics
+opencv-python
+numpy
