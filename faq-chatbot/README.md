@@ -20,7 +20,7 @@ faq-chatbot/
 │   └── chatbot.py        # CSV loading, TF-IDF, cosine similarity, threshold
 ├── tests/
 │   ├── __init__.py
-│   └── test_chatbot.py   # 16 unit tests
+│   └── test_chatbot.py   # 20 unit tests
 ├── docs/
 │   └── CONCEPTS_AND_VIVA.md   # concepts explained, viva/interview Q&A
 ├── app.py                # Streamlit chat interface
