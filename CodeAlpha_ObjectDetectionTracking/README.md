@@ -58,7 +58,7 @@ output/              saved videos (not committed)
 
 ## Example Output
 _Add your own screenshots here after running the app:_
-`![Webcam detection](screenshots/webcam_detection.png)`
+![Object Detection Result](screenshots/object_detection_result.png)
 
 The window shows a coloured box per object, labelled with an ID, class name and confidence (e.g. `id:3 person 0.87`), plus FPS and object count in the top-left corner.
 
