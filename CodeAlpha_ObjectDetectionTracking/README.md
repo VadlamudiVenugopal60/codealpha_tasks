@@ -52,12 +52,12 @@ object_tracking.py   main application
 requirements.txt     dependencies
 README.md            documentation
 .gitignore           keeps weights and videos out of Git
-screenshots/         your real screenshots (add them yourself)
+screenshots/         example output screenshot
 output/              saved videos (not committed)
 ```
 
 ## Example Output
-_Add your own screenshots here after running the app:_
+_Example screenshot from the object detection application:_
 ![Object Detection Result](screenshots/object_detection_result.png)
 
 The window shows a coloured box per object, labelled with an ID, class name and confidence (e.g. `id:3 person 0.87`), plus FPS and object count in the top-left corner.
