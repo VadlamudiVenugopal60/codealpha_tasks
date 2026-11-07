@@ -53,24 +53,33 @@ A real-time object detection and tracking application developed using Python, Op
 
 ## Repository Structure
 
-```text
 codealpha_tasks/
 │
 ├── faq-chatbot/
-│   ├── README.md
-│   ├── app.py
-│   ├── requirements.txt
 │   ├── data/
+│   │   ├── faqs.csv
+│   │   └── test_set.csv
+│   ├── docs/
+│   │   └── CONCEPTS_AND_VIVA.md
+│   ├── src/
+│   │   ├── __init__.py
+│   │   ├── chatbot.py
+│   │   └── preprocess.py
 │   ├── tests/
-│   └── evaluation/
+│   │   ├── __init__.py
+│   │   └── test_chatbot.py
+│   ├── app.py
+│   ├── evaluate.py
+│   ├── requirements.txt
+│   └── README.md
 │
 ├── CodeAlpha_ObjectDetectionTracking/
-│   ├── README.md
-│   ├── object_tracking.py
-│   ├── requirements.txt
 │   ├── screenshots/
 │   │   └── object_detection_result.png
-│   └── output/
+│   ├── output/
+│   │   └── .gitkeep
+│   ├── object_tracking.py
+│   ├── requirements.txt
+│   └── README.md
 │
 └── README.md
-```
